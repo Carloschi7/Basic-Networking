@@ -1,0 +1,1 @@
+The ASIO library is used only for learning purposes, and I did not try to modify or sell it in any way
